@@ -13,18 +13,16 @@ func TestSendExpressOrder(t *testing.T) {
 		Mobile:    "",
 		Username:  "",
 		Orderno:   "101081513800684694",
-		Orderid:   ,
+		Orderid:   171717,
 		Goodsname: "福利礼包",
 		Address:   "",
 		Remark:    "帮我包装好",
 		Num:       1111,
 	}
 
-	data := ExpressConverOrderData(order)
+	//data := ExpressConverOrderData(order)
 
-	logs.Info("%v", data)
-
-	kuaidi100SendOrderRes, err := SendOrderData("", "", "", data)
+	kuaidi100SendOrderRes, err := SendOrderData("", "", "", "")
 
 	logs.Info("%v", kuaidi100SendOrderRes)
 	logs.Info("%v", err)

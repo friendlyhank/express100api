@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="685a75ea-07b4-438f-875a-366580e92bd8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../docs/version.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../../docs/version.sql" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/sign.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="35" column="70" selection-start-line="35" selection-start-column="70" selection-end-line="35" selection-end-column="70" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/auth_test.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/auth.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="77" column="41" selection-start-line="77" selection-start-column="41" selection-end-line="77" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="GOROOT" path="D:\Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/sign.go" />
+        <option value="$PROJECT_DIR$/auth.go" />
+        <option value="$PROJECT_DIR$/auth_test.go" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-27" />
+    <option name="y" value="57" />
+    <option name="width" value="1920" />
+    <option name="height" value="1030" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="express100api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="express100api" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.gopath.indexing.explicitly.defined" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Go Test.TestGetAccessToken in git.biezao.com/ant/xmiss/foundation/express100api">
+    <configuration name="TestGetAccessToken in git.biezao.com/ant/xmiss/foundation/express100api" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="express100api" />
+      <working_directory value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="git.biezao.com/ant/xmiss/foundation/express100api" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestGetAccessToken$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestGetAuthorize in git.biezao.com/ant/xmiss/foundation/express100api" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="express100api" />
+      <working_directory value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="git.biezao.com/ant/xmiss/foundation/express100api" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestGetAuthorize$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Test.TestGetAccessToken in git.biezao.com/ant/xmiss/foundation/express100api" />
+        <item itemvalue="Go Test.TestGetAuthorize in git.biezao.com/ant/xmiss/foundation/express100api" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TestGetAuthorize_in_git_biezao_com_ant_xmiss_foundation_express100api - 2019.01.15 at 14h 12m 06s.xml">
+      <configuration name="TestGetAuthorize in git.biezao.com/ant/xmiss/foundation/express100api" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestGetAuthorize_in_git_biezao_com_ant_xmiss_foundation_express100api - 2019.01.15 at 14h 13m 54s.xml">
+      <configuration name="TestGetAuthorize in git.biezao.com/ant/xmiss/foundation/express100api" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestGetAuthorize_in_git_biezao_com_ant_xmiss_foundation_express100api - 2019.01.15 at 14h 24m 06s.xml">
+      <configuration name="TestGetAuthorize in git.biezao.com/ant/xmiss/foundation/express100api" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestGetAuthorize_in_git_biezao_com_ant_xmiss_foundation_express100api - 2019.01.15 at 14h 37m 49s.xml">
+      <configuration name="TestGetAuthorize in git.biezao.com/ant/xmiss/foundation/express100api" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestGetAuthorize_in_git_biezao_com_ant_xmiss_foundation_express100api - 2019.01.15 at 14h 42m 04s.xml">
+      <configuration name="TestGetAuthorize in git.biezao.com/ant/xmiss/foundation/express100api" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestGetAuthorize_in_git_biezao_com_ant_xmiss_foundation_express100api - 2019.01.15 at 15h 00m 33s.xml">
+      <configuration name="TestGetAuthorize in git.biezao.com/ant/xmiss/foundation/express100api" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestGetAccessToken_in_git_biezao_com_ant_xmiss_foundation_express100api - 2019.01.15 at 15h 21m 36s.xml">
+      <configuration name="TestGetAccessToken in git.biezao.com/ant/xmiss/foundation/express100api" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestGetAccessToken_in_git_biezao_com_ant_xmiss_foundation_express100api - 2019.01.15 at 15h 24m 03s.xml">
+      <configuration name="TestGetAccessToken in git.biezao.com/ant/xmiss/foundation/express100api" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestGetAuthorize_in_git_biezao_com_ant_xmiss_foundation_express100api - 2019.01.15 at 15h 24m 26s.xml">
+      <configuration name="TestGetAuthorize in git.biezao.com/ant/xmiss/foundation/express100api" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestGetAccessToken_in_git_biezao_com_ant_xmiss_foundation_express100api - 2019.01.15 at 15h 25m 04s.xml">
+      <configuration name="TestGetAccessToken in git.biezao.com/ant/xmiss/foundation/express100api" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13069706" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.10339943" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://D:/go/src/encoding/base64/base64.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="169" column="21" selection-start-line="169" selection-start-column="21" selection-end-line="169" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/go/src/time/time.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="1106" column="46" lean-forward="true" selection-start-line="1106" selection-start-column="46" selection-end-line="1106" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auth.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="77" column="41" selection-start-line="77" selection-start-column="41" selection-end-line="77" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auth_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sign.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="35" column="70" selection-start-line="35" selection-start-column="70" selection-end-line="35" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

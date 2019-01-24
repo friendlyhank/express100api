@@ -1,13 +1,9 @@
 package express100api
 
 import (
-	"encoding/json"
-	"fmt"
 	"net/url"
 	"strconv"
 	"time"
-
-	"git.biezao.com/ant/xmiss/foundation/db"
 
 	"github.com/astaxie/beego/logs"
 
@@ -137,40 +133,9 @@ func UpdateOrderData(appid string, clientSecret string, accessToken string, data
 	logs.Info("%v", err)
 
 	if err != nil {
-		logs.Info("|KuaiDi100|Order|UpdateOrderData|%v", err)
+		logs.Info("|KuaiDi100|Order|SendOrderData|%v", err)
 		kuaidi100SendOrderRes = nil
 	}
+
 	return
-}
-
-//ExpressConverOrderData -把数据库中的订单转换一下
-func ExpressConverOrderData(order *db.Order) string {
-	data := &SendOrderDataAndItems{}
-	//收件人信息
-	data.RecMobile = order.Mobile
-	data.RecTel = ""
-	data.RecName = order.Username
-	data.RecAddr = order.Address
-	data.Reccountry = "中国"
-
-	//寄件人信息
-	data.SendMobile = order.Mobile
-	data.SendTel = order.Mobile
-	data.SendName = order.Username
-	data.SendAddr = order.Address
-	data.OrderNum = order.Orderno
-	data.Cargo = order.Goodsname
-	data.Payment = "SHIPPER"
-	data.Comment = order.Remark
-
-	//item
-	data.ItemName = order.Goodsname
-	data.ItemUnit = fmt.Sprintf("%v", order.Num)
-	data.ItemOuterId = strconv.FormatInt(order.Orderid, 10)
-
-	logs.Info("%v", data)
-
-	bytedata, _ := json.Marshal(data)
-
-	return string(bytedata)
 }
